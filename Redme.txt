@@ -1,0 +1,3 @@
+Frontend in React. --> start in vscode
+Backend in Springboot. --> start in IntelliJ IDEA or in Ecllipse.
+
